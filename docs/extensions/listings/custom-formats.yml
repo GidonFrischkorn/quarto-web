@@ -122,7 +122,7 @@
   path: https://github.com/GidonFrischkorn/quarto-response-letter
   author: '[Gidon T. Frischkorn](https://github.com/GidonFrischkorn)'
   description: >
-    Point-by-point response letters to reviewers with auto-numbered comment, reply, and changes boxes, a metadata-driven letterhead, and a summary of changes, rendering to PDF, DOCX, HTML, and Typst from one source file.
+    Point-by-point response letters (PDF, DOCX, HTML & Typst) with auto-numbered comment, reply, and change boxes, and a summary of changes.
 
 - name: sketchy-html
   path: https://github.com/schochastics/quarto-sketchy-html
