@@ -118,6 +118,12 @@
   description: >
     A clean & opinionated Typst (PDF) format with improved support for Typst functionality beyond Quarto's standard template.
 
+- name: response-letter
+  path: https://github.com/GidonFrischkorn/quarto-response-letter
+  author: '[Gidon T. Frischkorn](https://github.com/GidonFrischkorn)'
+  description: >
+    Point-by-point response letters to reviewers with auto-numbered comment, reply, and changes boxes, a metadata-driven letterhead, and a summary of changes, rendering to PDF, DOCX, HTML, and Typst from one source file.
+
 - name: sketchy-html
   path: https://github.com/schochastics/quarto-sketchy-html
   author: '[schochastics](https://github.com/schochastics)'
